@@ -29,8 +29,8 @@ Planned functionality (in order of when it will be finished):
 # Future potentials
 If this project goes far enough, I plan to look into making this into an API.
 This API would read from my computer, and return an HTML file.
-If my understanding is correct, then this should allow me to make changes to my MD files and be able to read them through the internet, which I plan to host on github pages.
-If my understand is not correct, then I hope to somehow run this code and have the changes pushed to a github pages website.
+This would allow me to write markdown files for a static website and have them be dynamically converted to HTML when requested.
+I also hope to use the GitHub Pages service so anyone can access the website without hosting it on my own server.
 
 # Technologies used:
 - Rust
